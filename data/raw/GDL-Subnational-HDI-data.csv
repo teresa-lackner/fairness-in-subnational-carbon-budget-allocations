@@ -1,0 +1,383 @@
+Country,Continent,ISO_Code,Level,gdlcode,Region,hdi_20178,hdi_2018
+Albania,Europe,ALB,Subnat,ALBr201, Berat,0.789,0.793
+Albania,Europe,ALB,Subnat,ALBr202, Diber,0.761,0.765
+Albania,Europe,ALB,Subnat,ALBr203, Durres,0.809,0.813
+Albania,Europe,ALB,Subnat,ALBr204, Elbasan,0.791,0.794
+Albania,Europe,ALB,Subnat,ALBr205, Fier,0.774,0.778
+Albania,Europe,ALB,Subnat,ALBr206, Gjirokaster,0.802,0.806
+Albania,Europe,ALB,Subnat,ALBr207, Korce,0.798,0.801
+Albania,Europe,ALB,Subnat,ALBr208, Kukes,0.758,0.762
+Albania,Europe,ALB,Subnat,ALBr209, Lezhe,0.776,0.78
+Albania,Europe,ALB,Subnat,ALBr210, Shkoder,0.791,0.795
+Albania,Europe,ALB,Subnat,ALBr211, Tirana,0.828,0.832
+Albania,Europe,ALB,Subnat,ALBr212, Vlore,0.81,0.814
+Armenia,Europe,ARM,Subnat,ARMr101,Aragatsotn,0.752,0.755
+Armenia,Europe,ARM,Subnat,ARMr102,Ararat,0.746,0.749
+Armenia,Europe,ARM,Subnat,ARMr103,Armavir,0.737,0.74
+Armenia,Europe,ARM,Subnat,ARMr104,Gegharkunik,0.731,0.734
+Armenia,Europe,ARM,Subnat,ARMr106,Kotayk,0.774,0.777
+Armenia,Europe,ARM,Subnat,ARMr105,Lori,0.747,0.75
+Armenia,Europe,ARM,Subnat,ARMr107,Shirak,0.765,0.768
+Armenia,Europe,ARM,Subnat,ARMr108,Syunik,0.762,0.765
+Armenia,Europe,ARM,Subnat,ARMr110,Tavush,0.756,0.759
+Armenia,Europe,ARM,Subnat,ARMr109,Vayots Dzor,0.764,0.767
+Armenia,Europe,ARM,Subnat,ARMr111,Yerevan,0.803,0.806
+Austria,Europe,AUT,Subnat,AUTr101,Burgenland,0.879,0.88
+Austria,Europe,AUT,Subnat,AUTr104,Karnten,0.901,0.902
+Austria,Europe,AUT,Subnat,AUTr102,Niederosterreich,0.883,0.884
+Austria,Europe,AUT,Subnat,AUTr106,Oberosterreich,0.905,0.907
+Austria,Europe,AUT,Subnat,AUTr107,Salzburg,0.933,0.937
+Austria,Europe,AUT,Subnat,AUTr105,Steiermark,0.911,0.914
+Austria,Europe,AUT,Subnat,AUTr108,Tirol,0.93,0.931
+Austria,Europe,AUT,Subnat,AUTr109,Vorarlberg,0.902,0.906
+Austria,Europe,AUT,Subnat,AUTr103,Wien,0.943,0.943
+Azerbaijan,Europe,AZE,Subnat,AZEr102,Absheron,0.798,0.802
+Azerbaijan,Europe,AZE,Subnat,AZEr107,Aran,0.706,0.709
+Azerbaijan,Europe,AZE,Subnat,AZEr101,Baku,0.823,0.827
+Azerbaijan,Europe,AZE,Subnat,AZEr109,Dakhlik Shirvan,0.72,0.724
+Azerbaijan,Europe,AZE,Subnat,AZEr103,Ganja Gazakh,0.717,0.721
+Azerbaijan,Europe,AZE,Subnat,AZEr106,Guba Khachmaz,0.731,0.735
+Azerbaijan,Europe,AZE,Subnat,AZEr105,Lankaran,0.712,0.715
+Azerbaijan,Europe,AZE,Subnat,AZEr104,Shaki Zaqatala,0.759,0.762
+Azerbaijan,Europe,AZE,Subnat,AZEr108,Yukhari Karabakh,0.699,0.703
+Belarus,Europe,BLR,Subnat,BLRr101,Brest region,0.806,0.809
+Belarus,Europe,BLR,Subnat,BLRr103,Gomel region,0.816,0.818
+Belarus,Europe,BLR,Subnat,BLRr104,Grodno region,0.815,0.816
+Belarus,Europe,BLR,Subnat,BLRr105,Minsk region,0.828,0.829
+Belarus,Europe,BLR,Subnat,BLRr106,Mogilev region,0.803,0.806
+Belarus,Europe,BLR,Subnat,BLRr102,Vitebsk region,0.809,0.81
+Belgium,Europe,BEL,Subnat,BELr101,Bruxelles - Brussel,0.95,0.953
+Belgium,Europe,BEL,Subnat,BELr102,Prov. Antwerpen,0.943,0.946
+Belgium,Europe,BEL,Subnat,BELr107,Prov. Brabant Wallon,0.936,0.949
+Belgium,Europe,BEL,Subnat,BELr108,Prov. Hainaut,0.888,0.889
+Belgium,Europe,BEL,Subnat,BELr109,Prov. Liege,0.895,0.901
+Belgium,Europe,BEL,Subnat,BELr103,Prov. Limburg,0.926,0.927
+Belgium,Europe,BEL,Subnat,BELr110,Prov. Luxembourg,0.896,0.902
+Belgium,Europe,BEL,Subnat,BELr111,Prov. Namur,0.902,0.903
+Belgium,Europe,BEL,Subnat,BELr104,Prov. Oost-Vlaanderen,0.932,0.934
+Belgium,Europe,BEL,Subnat,BELr105,Prov. Vlaams-Brabant,0.951,0.944
+Belgium,Europe,BEL,Subnat,BELr106,Prov. West-Vlaanderen,0.932,0.934
+Bosnia and Herzegovina,Europe,BIH,Subnat,BIHr103,Central Bosnia,0.774,0.778
+Bosnia and Herzegovina,Europe,BIH,Subnat,BIHr102,Northern Bosnia,0.765,0.769
+Bosnia and Herzegovina,Europe,BIH,Subnat,BIHr105,Republica Srpska,0.769,0.773
+Bosnia and Herzegovina,Europe,BIH,Subnat,BIHr101,Western Bosnia,0.766,0.77
+Bosnia and Herzegovina,Europe,BIH,Subnat,BIHr104,Western herzegovina,0.795,0.799
+Bulgaria,Europe,BGR,Subnat,BGRr102,Severen tsentralen,0.782,0.781
+Bulgaria,Europe,BGR,Subnat,BGRr103,Severoiztochen,0.788,0.786
+Bulgaria,Europe,BGR,Subnat,BGRr101,Severozapaden,0.752,0.756
+Bulgaria,Europe,BGR,Subnat,BGRr104,Yugoiztochen,0.776,0.771
+Bulgaria,Europe,BGR,Subnat,BGRr105,Yugozapaden,0.865,0.867
+Bulgaria,Europe,BGR,Subnat,BGRr106,Yuzhen tsentralen,0.78,0.78
+Croatia,Europe,HRV,Subnat,HRVr101,City of Zagreb,0.91,0.915
+Croatia,Europe,HRV,Subnat,HRVr107,County of Bjelovar-Bilogora,0.81,0.814
+Croatia,Europe,HRV,Subnat,HRVr110,County of Brod-Posavina,0.803,0.807
+Croatia,Europe,HRV,Subnat,HRVr121,County of Dubrovnik-Neretva,0.861,0.865
+Croatia,Europe,HRV,Subnat,HRVr120,County of Istria,0.869,0.874
+Croatia,Europe,HRV,Subnat,HRVr113,County of Karlovac,0.824,0.829
+Croatia,Europe,HRV,Subnat,HRVr105,County of Koprivnica-Krizevc,0.821,0.826
+Croatia,Europe,HRV,Subnat,HRVr103,County of Krapina-Zagorje,0.811,0.815
+Croatia,Europe,HRV,Subnat,HRVr116,County of Lika-Senj,0.817,0.821
+Croatia,Europe,HRV,Subnat,HRVr106,County of Medimurje,0.83,0.834
+Croatia,Europe,HRV,Subnat,HRVr111,County of Osijek-Baranja,0.831,0.835
+Croatia,Europe,HRV,Subnat,HRVr109,County of Pozega-Slavonia,0.8,0.804
+Croatia,Europe,HRV,Subnat,HRVr115,County of Primorje-Gorski Kotar,0.879,0.883
+Croatia,Europe,HRV,Subnat,HRVr118,County of Sibenik-Knin,0.828,0.832
+Croatia,Europe,HRV,Subnat,HRVr114,County of Sisak-Moslavina,0.818,0.822
+Croatia,Europe,HRV,Subnat,HRVr119,County of Split-Dalmatia,0.844,0.849
+Croatia,Europe,HRV,Subnat,HRVr104,County of Varazdin,0.836,0.84
+Croatia,Europe,HRV,Subnat,HRVr108,County of Virovitica-Podravina,0.793,0.797
+Croatia,Europe,HRV,Subnat,HRVr112,County of Vukovar-Srijem,0.803,0.807
+Croatia,Europe,HRV,Subnat,HRVr117,County of Zadar,0.834,0.838
+Croatia,Europe,HRV,Subnat,HRVr102,County of Zagreb,0.834,0.838
+Czech Republic,Europe,CZE,Subnat,CZEr106,Jihovychod,0.906,0.903
+Czech Republic,Europe,CZE,Subnat,CZEr103,Jihozapad,0.884,0.879
+Czech Republic,Europe,CZE,Subnat,CZEr108,Moravskoslezsko,0.87,0.867
+Czech Republic,Europe,CZE,Subnat,CZEr101,Praha,0.967,0.968
+Czech Republic,Europe,CZE,Subnat,CZEr105,Severovychod,0.876,0.872
+Czech Republic,Europe,CZE,Subnat,CZEr104,Severozapad,0.839,0.834
+Czech Republic,Europe,CZE,Subnat,CZEr102,Stredni Cechy,0.853,0.85
+Czech Republic,Europe,CZE,Subnat,CZEr107,Stredni Morava,0.88,0.878
+Denmark,Europe,DNK,Subnat,DNKr101,Hovedstaden,0.964,0.964
+Denmark,Europe,DNK,Subnat,DNKr104,Midtjylland,0.941,0.938
+Denmark,Europe,DNK,Subnat,DNKr105,Nordjylland,0.931,0.928
+Denmark,Europe,DNK,Subnat,DNKr102,Sjaelland,0.915,0.914
+Denmark,Europe,DNK,Subnat,DNKr103,Syddanmark,0.935,0.932
+Estonia,Europe,EST,Subnat,ESTr103,Kesk-Eesti,0.826,0.83
+Estonia,Europe,EST,Subnat,ESTr104,Kirde-Eesti,0.845,0.849
+Estonia,Europe,EST,Subnat,ESTr102,Laane-Eesti,0.844,0.848
+Estonia,Europe,EST,Subnat,ESTr105,Louna-Eesti,0.861,0.865
+Estonia,Europe,EST,Subnat,ESTr101,Pohja-Eesti,0.929,0.933
+Finland,Europe,FIN,Subnat,FINr105,Aland,0.933,0.93
+Finland,Europe,FIN,Subnat,FINr103,Etela-Suomi,0.924,0.927
+Finland,Europe,FIN,Subnat,FINr102,Helsinki-Uusimaa,0.955,0.957
+Finland,Europe,FIN,Subnat,FINr101,Lansi-Suomi,0.927,0.93
+Finland,Europe,FIN,Subnat,FINr104,Pohjois-ja Ita-Suomi,0.919,0.921
+France,Europe,FRA,Subnat,FRAr110,Alsace,0.894,0.895
+France,Europe,FRA,Subnat,FRAr115,Aquitaine,0.891,0.898
+France,Europe,FRA,Subnat,FRAr119,Auvergne,0.875,0.881
+France,Europe,FRA,Subnat,FRAr106,Basse-Normandie,0.87,0.874
+France,Europe,FRA,Subnat,FRAr107,Bourgogne,0.874,0.878
+France,Europe,FRA,Subnat,FRAr113,Bretagne,0.89,0.893
+France,Europe,FRA,Subnat,FRAr105,Centre,0.876,0.879
+France,Europe,FRA,Subnat,FRAr102,Champagne-Ardenne,0.87,0.872
+France,Europe,FRA,Subnat,FRAr122,Corse,0.862,0.858
+France,Europe,FRA,Subnat,FRAr111,Franche-Comte,0.876,0.875
+France,Europe,FRA,Subnat,FRAr127,French Guyana,0.787,0.79
+France,Europe,FRA,Subnat,FRAr125,Guadeloupe,0.848,0.855
+France,Europe,FRA,Subnat,FRAr104,Haute-Normandie,0.874,0.878
+France,Europe,FRA,Subnat,FRAr101,Ile de France,0.943,0.947
+France,Europe,FRA,Subnat,FRAr120,Languedoc-Roussillon,0.882,0.882
+France,Europe,FRA,Subnat,FRAr117,Limousin,0.879,0.878
+France,Europe,FRA,Subnat,FRAr109,Lorraine,0.874,0.872
+France,Europe,FRA,Subnat,FRAr126,Martinique,0.861,0.855
+France,Europe,FRA,Subnat,FRAr129,Mayotte,0.776,0.775
+France,Europe,FRA,Subnat,FRAr116,Midi-Pyrenees,0.902,0.908
+France,Europe,FRA,Subnat,FRAr108,Nord,0.872,0.877
+France,Europe,FRA,Subnat,FRAr112,Pays de la Loire,0.89,0.894
+France,Europe,FRA,Subnat,FRAr103,Picardie,0.854,0.859
+France,Europe,FRA,Subnat,FRAr114,Poitou-Charentes,0.88,0.883
+France,Europe,FRA,Subnat,FRAr121,Provence-Alpes-Cote dAzur,0.897,0.898
+France,Europe,FRA,Subnat,FRAr128,Reunion,0.843,0.843
+France,Europe,FRA,Subnat,FRAr118,Rhone-Alpes,0.909,0.913
+Georgia,Europe,GEO,Subnat,GEOr102,Ajaria,0.804,0.808
+Georgia,Europe,GEO,Subnat,GEOr103,Guria,0.761,0.762
+Georgia,Europe,GEO,Subnat,GEOr104,Imereti Racha-Lochkhumi Kvemo Svaneti,0.798,0.802
+Georgia,Europe,GEO,Subnat,GEOr105,Kakheti,0.757,0.759
+Georgia,Europe,GEO,Subnat,GEOr106,Kvemo Kartli,0.779,0.786
+Georgia,Europe,GEO,Subnat,GEOr107,Mtskheta-Mtianeti,0.746,0.748
+Georgia,Europe,GEO,Subnat,GEOr108,Samegrelo-Zemo Svateni,0.765,0.768
+Georgia,Europe,GEO,Subnat,GEOr109,Samtskhe-Javakheti,0.772,0.777
+Georgia,Europe,GEO,Subnat,GEOr110,Shida Kartli,0.777,0.782
+Georgia,Europe,GEO,Subnat,GEOr111,Tbilisi,0.827,0.826
+Germany,Europe,DEU,Subnat,DEUr101,Baden-Wurttemberg,0.958,0.959
+Germany,Europe,DEU,Subnat,DEUr102,Bayern,0.952,0.953
+Germany,Europe,DEU,Subnat,DEUr103,Berlin,0.957,0.958
+Germany,Europe,DEU,Subnat,DEUr104,Brandenburg,0.918,0.919
+Germany,Europe,DEU,Subnat,DEUr105,Bremen,0.955,0.954
+Germany,Europe,DEU,Subnat,DEUr106,Hamburg,0.973,0.975
+Germany,Europe,DEU,Subnat,DEUr107,Hessen,0.951,0.952
+Germany,Europe,DEU,Subnat,DEUr108,Mecklenburg-Vorpommern,0.918,0.916
+Germany,Europe,DEU,Subnat,DEUr109,Niedersachsen,0.93,0.931
+Germany,Europe,DEU,Subnat,DEUr110,Nordrhein-Westfalen,0.94,0.941
+Germany,Europe,DEU,Subnat,DEUr111,Rheinland-Pfalz,0.93,0.932
+Germany,Europe,DEU,Subnat,DEUr112,Saarland,0.934,0.933
+Germany,Europe,DEU,Subnat,DEUr113,Sachsen,0.936,0.935
+Germany,Europe,DEU,Subnat,DEUr114,Sachsen-Anhalt,0.91,0.912
+Germany,Europe,DEU,Subnat,DEUr115,Schleswig-Holstein,0.923,0.923
+Germany,Europe,DEU,Subnat,DEUr116,Thuringen,0.924,0.925
+Greece,Europe,GRC,Subnat,GRCr105,"Anatoliki Makedonia, Thraki",0.846,0.854
+Greece,Europe,GRC,Subnat,GRCr101,Attiki,0.901,0.907
+Greece,Europe,GRC,Subnat,GRCr111,Dytiki Ellada,0.855,0.858
+Greece,Europe,GRC,Subnat,GRCr107,Dytiki Makedonia,0.876,0.881
+Greece,Europe,GRC,Subnat,GRCr110,Ionia Nisia,0.863,0.873
+Greece,Europe,GRC,Subnat,GRCr108,Ipeiros,0.868,0.874
+Greece,Europe,GRC,Subnat,GRCr106,Kentriki Makedonia,0.866,0.872
+Greece,Europe,GRC,Subnat,GRCr104,Kriti,0.869,0.876
+Greece,Europe,GRC,Subnat,GRCr103,Notio Aigaio,0.848,0.86
+Greece,Europe,GRC,Subnat,GRCr113,Peloponnisos,0.852,0.857
+Greece,Europe,GRC,Subnat,GRCr112,Sterea Ellada,0.851,0.859
+Greece,Europe,GRC,Subnat,GRCr109,Thessalia,0.863,0.873
+Greece,Europe,GRC,Subnat,GRCr102,Voreio Aigaio,0.858,0.863
+Hungary,Europe,HUN,Subnat,HUNr107,Del-Alfold,0.835,0.844
+Hungary,Europe,HUN,Subnat,HUNr104,Del-Dunantul,0.826,0.831
+Hungary,Europe,HUN,Subnat,HUNr106,Eszak-Alfold,0.82,0.824
+Hungary,Europe,HUN,Subnat,HUNr105,Eszak-Magyarorszag,0.813,0.815
+Hungary,Europe,HUN,Subnat,HUNr102,Kozep-Dunantul,0.839,0.841
+Hungary,Europe,HUN,Subnat,HUNr101,Kozep-Magyarorszag,0.918,0.923
+Hungary,Europe,HUN,Subnat,HUNr103,Nyugat-Dunantul,0.86,0.859
+Ireland,Europe,IRL,Subnat,IRLr101,Border,0.891,0.895
+Ireland,Europe,IRL,Subnat,IRLr104,Dublin,0.947,0.949
+Ireland,Europe,IRL,Subnat,IRLr105,Mid-East,0.92,0.923
+Ireland,Europe,IRL,Subnat,IRLr106,Mid-West,0.914,0.918
+Ireland,Europe,IRL,Subnat,IRLr102,Midland,0.893,0.897
+Ireland,Europe,IRL,Subnat,IRLr107,South-East,0.909,0.912
+Ireland,Europe,IRL,Subnat,IRLr108,South-West,0.943,0.945
+Ireland,Europe,IRL,Subnat,IRLr103,West,0.92,0.923
+Italy,Europe,ITA,Subnat,ITAr105,Abruzzo,0.886,0.89
+Italy,Europe,ITA,Subnat,ITAr109,Basilicata,0.858,0.864
+Italy,Europe,ITA,Subnat,ITAr110,Calabria,0.844,0.847
+Italy,Europe,ITA,Subnat,ITAr107,Campania,0.849,0.855
+Italy,Europe,ITA,Subnat,ITAr117,Emilia-Romagna,0.917,0.922
+Italy,Europe,ITA,Subnat,ITAr116,Friuli-Venezia Giulia,0.9,0.903
+Italy,Europe,ITA,Subnat,ITAr121,Lazio,0.91,0.915
+Italy,Europe,ITA,Subnat,ITAr103,Liguria,0.894,0.898
+Italy,Europe,ITA,Subnat,ITAr104,Lombardia,0.91,0.914
+Italy,Europe,ITA,Subnat,ITAr120,Marche,0.897,0.902
+Italy,Europe,ITA,Subnat,ITAr106,Molise,0.867,0.872
+Italy,Europe,ITA,Subnat,ITAr101,Piemonte,0.895,0.899
+Italy,Europe,ITA,Subnat,ITAr113,Provincia Autonoma di Bolzano,0.896,0.912
+Italy,Europe,ITA,Subnat,ITAr114,Provincia Autonoma di Trento,0.917,0.921
+Italy,Europe,ITA,Subnat,ITAr108,Puglia,0.849,0.854
+Italy,Europe,ITA,Subnat,ITAr112,Sardegna,0.865,0.869
+Italy,Europe,ITA,Subnat,ITAr111,Sicilia,0.841,0.846
+Italy,Europe,ITA,Subnat,ITAr118,Toscana,0.905,0.909
+Italy,Europe,ITA,Subnat,ITAr119,Umbria,0.892,0.896
+Italy,Europe,ITA,Subnat,ITAr102,Valle dAosta,0.881,0.882
+Italy,Europe,ITA,Subnat,ITAr115,Veneto,0.897,0.9
+Kosovo,Europe,XKO,Subnat,KSVr107,Ferizaj,0.759,0.761
+Kosovo,Europe,XKO,Subnat,KSVr101,Gjakova,0.74,0.743
+Kosovo,Europe,XKO,Subnat,KSVr102,Gjilan,0.743,0.743
+Kosovo,Europe,XKO,Subnat,KSVr103,Mitrovica,0.761,0.763
+Kosovo,Europe,XKO,Subnat,KSVr104,Peja,0.741,0.746
+Kosovo,Europe,XKO,Subnat,KSVr106,Pristina,0.764,0.767
+Kosovo,Europe,XKO,Subnat,KSVr105,Prizren,0.733,0.74
+Latvia,Europe,LVA,Subnat,LVAr104,Kurzeme region,0.85,0.855
+Latvia,Europe,LVA,Subnat,LVAr106,Latgale region,0.826,0.831
+Latvia,Europe,LVA,Subnat,LVAr102,Pieriga region,0.882,0.887
+Latvia,Europe,LVA,Subnat,LVAr101,Riga region,0.927,0.932
+Latvia,Europe,LVA,Subnat,LVAr103,Vidzeme region,0.848,0.854
+Latvia,Europe,LVA,Subnat,LVAr105,Zemgale region,0.839,0.844
+Lithuania,Europe,LTU,Subnat,LTUr101,Alytus County,0.842,0.846
+Lithuania,Europe,LTU,Subnat,LTUr102,Kaunas County,0.884,0.888
+Lithuania,Europe,LTU,Subnat,LTUr103,Klaipeda County,0.877,0.881
+Lithuania,Europe,LTU,Subnat,LTUr104,Marijampole County,0.831,0.835
+Lithuania,Europe,LTU,Subnat,LTUr105,Panevezys County,0.848,0.852
+Lithuania,Europe,LTU,Subnat,LTUr106,Siauliai County,0.848,0.852
+Lithuania,Europe,LTU,Subnat,LTUr107,Taurage County,0.818,0.822
+Lithuania,Europe,LTU,Subnat,LTUr108,Telsiai County,0.848,0.852
+Lithuania,Europe,LTU,Subnat,LTUr109,Utena County,0.832,0.836
+Lithuania,Europe,LTU,Subnat,LTUr110,Vilnius County,0.914,0.918
+Moldova,Europe,MDA,Subnat,MDAr102,Center,0.74,0.743
+Moldova,Europe,MDA,Subnat,MDAr104,Chisinau,0.833,0.837
+Moldova,Europe,MDA,Subnat,MDAr101,North,0.744,0.747
+Moldova,Europe,MDA,Subnat,MDAr103,South,0.761,0.764
+Monte Negro,Europe,MNE,Subnat,MNEr102,Centre,0.839,0.844
+Monte Negro,Europe,MNE,Subnat,MNEr101,North,0.82,0.828
+Monte Negro,Europe,MNE,Subnat,MNEr103,South,0.818,0.817
+Netherlands,Europe,NLD,Subnat,NLDr103,Drenthe,0.906,0.913
+Netherlands,Europe,NLD,Subnat,NLDr106,Flevoland,0.922,0.92
+Netherlands,Europe,NLD,Subnat,NLDr102,Friesland,0.912,0.915
+Netherlands,Europe,NLD,Subnat,NLDr105,Gelderland,0.926,0.928
+Netherlands,Europe,NLD,Subnat,NLDr101,Groningen,0.93,0.931
+Netherlands,Europe,NLD,Subnat,NLDr112,Limburg,0.923,0.927
+Netherlands,Europe,NLD,Subnat,NLDr111,Noord-Brabant,0.935,0.939
+Netherlands,Europe,NLD,Subnat,NLDr108,Noord-Holland,0.957,0.959
+Netherlands,Europe,NLD,Subnat,NLDr104,Overijssel,0.926,0.927
+Netherlands,Europe,NLD,Subnat,NLDr107,Utrecht,0.959,0.962
+Netherlands,Europe,NLD,Subnat,NLDr110,Zeeland,0.912,0.915
+Netherlands,Europe,NLD,Subnat,NLDr109,Zuid-Holland,0.938,0.939
+North Macedonia,Europe,MKD,Subnat,MKDr108,East,0.751,0.757
+North Macedonia,Europe,MKD,Subnat,MKDr104,North East,0.745,0.751
+North Macedonia,Europe,MKD,Subnat,MKDr102,Pelagoniski,0.773,0.778
+North Macedonia,Europe,MKD,Subnat,MKDr107,Poloski,0.755,0.762
+North Macedonia,Europe,MKD,Subnat,MKDr101,Skopski,0.793,0.798
+North Macedonia,Europe,MKD,Subnat,MKDr106,South East,0.729,0.733
+North Macedonia,Europe,MKD,Subnat,MKDr105,South West,0.77,0.776
+North Macedonia,Europe,MKD,Subnat,MKDr103,Vardarski,0.768,0.775
+Norway,Europe,NOR,Subnat,NORr104,Agder og Rogaland,0.945,0.947
+Norway,Europe,NOR,Subnat,NORr102,Hedmark og Oppland,0.929,0.929
+Norway,Europe,NOR,Subnat,NORr107,Nord-Norge,0.94,0.944
+Norway,Europe,NOR,Subnat,NORr101,Oslo og Akershus,0.974,0.976
+Norway,Europe,NOR,Subnat,NORr103,Sor-Ostlandet,0.919,0.924
+Norway,Europe,NOR,Subnat,NORr106,Trondelag,0.952,0.956
+Norway,Europe,NOR,Subnat,NORr105,Vestlandet,0.958,0.958
+Poland,Europe,POL,Subnat,POLr112,Dolnoslaskie,0.886,0.888
+Poland,Europe,POL,Subnat,POLr114,Kujawsko-Pomorskie,0.862,0.862
+Poland,Europe,POL,Subnat,POLr101,Lodzkie,0.867,0.871
+Poland,Europe,POL,Subnat,POLr105,Lubelskie,0.856,0.859
+Poland,Europe,POL,Subnat,POLr111,Lubuskie,0.861,0.861
+Poland,Europe,POL,Subnat,POLr103,Malopolskie,0.889,0.891
+Poland,Europe,POL,Subnat,POLr102,Mazowieckie,0.924,0.926
+Poland,Europe,POL,Subnat,POLr113,Opolskie,0.863,0.867
+Poland,Europe,POL,Subnat,POLr106,Podkarpackie,0.868,0.871
+Poland,Europe,POL,Subnat,POLr108,Podlaskie,0.866,0.868
+Poland,Europe,POL,Subnat,POLr116,Pomorskie,0.886,0.887
+Poland,Europe,POL,Subnat,POLr104,Slaskie,0.88,0.884
+Poland,Europe,POL,Subnat,POLr107,Swietokrzyskie,0.86,0.863
+Poland,Europe,POL,Subnat,POLr115,Warminsko-Mazurskie,0.845,0.846
+Poland,Europe,POL,Subnat,POLr109,Wielkopolskie,0.882,0.883
+Poland,Europe,POL,Subnat,POLr110,Zachodniopomorskie,0.864,0.867
+Portugal,Europe,PRT,Subnat,PRTr105,Alentejo,0.839,0.84
+Portugal,Europe,PRT,Subnat,PRTr102,Algarve,0.843,0.844
+Portugal,Europe,PRT,Subnat,PRTr104,Area Metropolitana de Lisboa,0.897,0.895
+Portugal,Europe,PRT,Subnat,PRTr103,Centro,0.849,0.852
+Portugal,Europe,PRT,Subnat,PRTr101,Norte,0.844,0.847
+Portugal,Europe,PRT,Subnat,PRTr107,Regiao Autonoma da Madeira,0.817,0.817
+Portugal,Europe,PRT,Subnat,PRTr106,Regiao Autonoma dos Acores,0.804,0.803
+Romania,Europe,ROU,Subnat,ROUr108,Bucuresti,0.927,0.931
+Romania,Europe,ROU,Subnat,ROUr107,Centru,0.822,0.825
+Romania,Europe,ROU,Subnat,ROUr101,Nord-Est,0.779,0.781
+Romania,Europe,ROU,Subnat,ROUr106,Nord-Vest,0.824,0.829
+Romania,Europe,ROU,Subnat,ROUr103,Sud,0.787,0.79
+Romania,Europe,ROU,Subnat,ROUr102,Sud-Est,0.795,0.798
+Romania,Europe,ROU,Subnat,ROUr104,Sud-Vest Oltenia,0.8,0.807
+Romania,Europe,ROU,Subnat,ROUr105,Vest,0.825,0.832
+Russian Federation,Europe,RUS,Subnat,RUSr101,The Central Federal District,0.855,0.864
+Russian Federation,Europe,RUS,Subnat,RUSr108,The Far East  Federal District,0.818,0.826
+Russian Federation,Europe,RUS,Subnat,RUSr102,The North West Federal District,0.844,0.852
+Russian Federation,Europe,RUS,Subnat,RUSr104,The North-Caucasian Federal District,0.802,0.811
+Russian Federation,Europe,RUS,Subnat,RUSr105,The Privolzhsky (Volga) Federal District,0.814,0.822
+Russian Federation,Europe,RUS,Subnat,RUSr107,The Siberian  Federal District,0.804,0.812
+Russian Federation,Europe,RUS,Subnat,RUSr103,The South Federal District,0.809,0.818
+Russian Federation,Europe,RUS,Subnat,RUSr106,The Urals  Federal District,0.85,0.859
+Serbia,Europe,SRB,Subnat,SRBr101,Belgrade,0.829,0.836
+Serbia,Europe,SRB,Subnat,SRBr104,South and East Serbia,0.793,0.799
+Serbia,Europe,SRB,Subnat,SRBr103,Sumadija and West Serbia,0.792,0.797
+Serbia,Europe,SRB,Subnat,SRBr102,Vojvodina,0.795,0.801
+Slovakia,Europe,SVK,Subnat,SVKr101,Bratislavsky kraj,0.954,0.956
+Slovakia,Europe,SVK,Subnat,SVKr103,Stredne Slovensko,0.834,0.837
+Slovakia,Europe,SVK,Subnat,SVKr104,Vychodne Slovensko,0.82,0.824
+Slovakia,Europe,SVK,Subnat,SVKr102,Zapadne Slovensko,0.847,0.848
+Slovenia,Europe,SVN,Subnat,SVNr110,Gorenjska,0.912,0.917
+Slovenia,Europe,SVN,Subnat,SVNr111,Goriska,0.902,0.907
+Slovenia,Europe,SVN,Subnat,SVNr107,Jugovzhodna Slovenija,0.897,0.902
+Slovenia,Europe,SVN,Subnat,SVNr103,Koroska,0.884,0.888
+Slovenia,Europe,SVN,Subnat,SVNr112,Obalno-kraska,0.913,0.917
+Slovenia,Europe,SVN,Subnat,SVNr109,Osrednjeslovenska,0.948,0.952
+Slovenia,Europe,SVN,Subnat,SVNr102,Podravska,0.895,0.899
+Slovenia,Europe,SVN,Subnat,SVNr101,Pomurska,0.869,0.873
+Slovenia,Europe,SVN,Subnat,SVNr106,Posavska,0.884,0.888
+Slovenia,Europe,SVN,Subnat,SVNr108,Primorsko-notranjska,0.887,0.892
+Slovenia,Europe,SVN,Subnat,SVNr104,Savinjska,0.899,0.903
+Slovenia,Europe,SVN,Subnat,SVNr105,Zasavska,0.863,0.867
+Spain,Europe,ESP,Subnat,ESPr115,Andalucia,0.866,0.87
+Spain,Europe,ESP,Subnat,ESPr107,Aragon,0.903,0.907
+Spain,Europe,ESP,Subnat,ESPr119,Canarias,0.866,0.866
+Spain,Europe,ESP,Subnat,ESPr103,Cantabria,0.897,0.901
+Spain,Europe,ESP,Subnat,ESPr109,Castilla y Leon,0.901,0.904
+Spain,Europe,ESP,Subnat,ESPr110,Castilla-la Mancha,0.862,0.867
+Spain,Europe,ESP,Subnat,ESPr112,Cataluna,0.909,0.912
+Spain,Europe,ESP,Subnat,ESPr117,Ciudad Autonoma de Ceuta,0.849,0.856
+Spain,Europe,ESP,Subnat,ESPr118,Ciudad Autonoma de Melilla,0.846,0.846
+Spain,Europe,ESP,Subnat,ESPr108,Comunidad de Madrid,0.936,0.938
+Spain,Europe,ESP,Subnat,ESPr105,Comunidad Foral de Navarra,0.917,0.92
+Spain,Europe,ESP,Subnat,ESPr113,Comunidad Valenciana,0.886,0.89
+Spain,Europe,ESP,Subnat,ESPr111,Extremadura,0.86,0.864
+Spain,Europe,ESP,Subnat,ESPr101,Galicia,0.894,0.897
+Spain,Europe,ESP,Subnat,ESPr114,Illes Balears,0.867,0.872
+Spain,Europe,ESP,Subnat,ESPr106,La Rioja,0.909,0.91
+Spain,Europe,ESP,Subnat,ESPr104,Pais Vasco,0.928,0.93
+Spain,Europe,ESP,Subnat,ESPr102,Principado de Asturias,0.894,0.899
+Spain,Europe,ESP,Subnat,ESPr116,Region de Murcia,0.878,0.882
+Sweden,Europe,SWE,Subnat,SWEr107,Mellersta Norrland,0.923,0.928
+Sweden,Europe,SWE,Subnat,SWEr106,Norra Mellansverige,0.922,0.924
+Sweden,Europe,SWE,Subnat,SWEr102,Ostra Mellansverige,0.931,0.932
+Sweden,Europe,SWE,Subnat,SWEr108,Ovre Norrland,0.933,0.935
+Sweden,Europe,SWE,Subnat,SWEr103,Smaland med oarna,0.929,0.931
+Sweden,Europe,SWE,Subnat,SWEr101,Stockholm,0.966,0.967
+Sweden,Europe,SWE,Subnat,SWEr104,Sydsverige,0.935,0.935
+Sweden,Europe,SWE,Subnat,SWEr105,Vastsverige,0.94,0.941
+Switzerland,Europe,CHE,Subnat,CHEr106,Central Switzerland,0.95,0.95
+Switzerland,Europe,CHE,Subnat,CHEr105,Eastern Switzerland,0.935,0.937
+Switzerland,Europe,CHE,Subnat,CHEr102,Espace Mittelland,0.945,0.946
+Switzerland,Europe,CHE,Subnat,CHEr101,Lake Geneva region,0.959,0.962
+Switzerland,Europe,CHE,Subnat,CHEr103,Northwestern Switzerland,0.952,0.954
+Switzerland,Europe,CHE,Subnat,CHEr107,Ticino,0.955,0.961
+Switzerland,Europe,CHE,Subnat,CHEr104,Zurich,0.982,0.985
+Ukraine,Europe,UKR,Subnat,UKRr102,Central,0.775,0.775
+Ukraine,Europe,UKR,Subnat,UKRr103,East,0.789,0.79
+Ukraine,Europe,UKR,Subnat,UKRr101,North,0.785,0.786
+Ukraine,Europe,UKR,Subnat,UKRr104,South,0.788,0.788
+Ukraine,Europe,UKR,Subnat,UKRr105,West,0.769,0.77
+United Kingdom,Europe,GBR,Subnat,GBRr104,East Midlands,0.915,0.913
+United Kingdom,Europe,GBR,Subnat,GBRr106,East of England,0.919,0.917
+United Kingdom,Europe,GBR,Subnat,GBRr107,London,0.972,0.971
+United Kingdom,Europe,GBR,Subnat,GBRr101,North East,0.905,0.902
+United Kingdom,Europe,GBR,Subnat,GBRr102,North West,0.917,0.916
+United Kingdom,Europe,GBR,Subnat,GBRr112,Northern Ireland,0.895,0.897
+United Kingdom,Europe,GBR,Subnat,GBRr111,Scotland,0.924,0.925
+United Kingdom,Europe,GBR,Subnat,GBRr108,South East,0.941,0.941
+United Kingdom,Europe,GBR,Subnat,GBRr109,South West,0.929,0.926
+United Kingdom,Europe,GBR,Subnat,GBRr110,Wales,0.898,0.897
+United Kingdom,Europe,GBR,Subnat,GBRr105,West Midlands,0.914,0.913
+United Kingdom,Europe,GBR,Subnat,GBRr103,Yorkshire and The Humber,0.911,0.91
